@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.navi {
+  position: absolute;
+  top: 45px;
+  padding-left: 20px;
+}
+
+.navc {
+  height: 100px;
+}
+nav {
+  background-color: #266cde;
+}
+
+.cards {
+  position: absolute;
+  top: 18%;
+}
+
+.tab {
+  width: 50%;
+  height: 100px;
+  position: absolute;
+  left: 450px;
+  bottom: 250px;
+}
+
+.fees {
+  padding-top: 40px;
+}
+
+.paybtn {
+  padding-top: 300px;
+  padding-left: 700px;
+}
+
+.foot {
+  background-color: #266cde;
+  padding-top: 14px;
+  margin-top: 80px;
+}
+
+.footext {
+  color: #fff;
+  margin-left: 42%;
+  margin-bottom: 100px;
+}
+
+.icons ul i {
+  color: #fff;
+  padding-left: 18px;
+  height: 10px;
+}
